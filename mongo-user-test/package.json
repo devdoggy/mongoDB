@@ -1,0 +1,22 @@
+{
+  "name": "DatabaseExample",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "errorhandler": "*",
+    "express": "*",
+    "express-error-handler": "*",
+    "express-session": "*",
+    "http": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "mysql": "*",
+    "path": "*",
+    "serve-static": "*"
+  }
+}
